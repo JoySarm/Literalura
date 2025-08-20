@@ -48,7 +48,7 @@ Siga os passos abaixo para rodar o projeto na sua máquina local:
 Contribuições são bem-vindas! Se você encontrar um bug ou tiver uma melhoria para sugerir, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
 
 ## Autor
-- **Supiia** - Desenvolvedor(a)
+- **Joy** - Desenvolvedor(a)
 
 ## Licença
 Este projeto está sob a licença [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
